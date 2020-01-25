@@ -1,6 +1,7 @@
 # BBR2-Kernel
 Longterm Project.Update the brand new BBR2 Kernel
 
+感谢stardock制作的Markdown版说明
 
 前星期忍不住入了ikoula 9.9o，然后发现用处不大，平时拿来跑跑转盘和备份，毕竟我的主力机不是这个。  
 又看到BBR2新内核居然没人编译RPM包，于是写了个Python脚本，自动git pull+编译RPM和DEB包+git push  

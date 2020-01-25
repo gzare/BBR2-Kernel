@@ -12,6 +12,11 @@ Longterm Project.Update the brand new BBR2 Kernel
 
 ## 最新内核安装方法  
 
+首先开启fq
+```
+echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
+```
+
 ### CentOS7  
 
 ```  
